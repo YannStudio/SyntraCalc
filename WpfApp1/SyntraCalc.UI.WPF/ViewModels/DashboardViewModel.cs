@@ -1,6 +1,7 @@
 ﻿using GalaSoft.MvvmLight;
 using SyntraCalc.Models;
 using SyntraCalc.Services;
+using SyntraCalc.UI.WPF.Messages;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
@@ -33,6 +34,7 @@ namespace SyntraCalc.UI.WPF.ViewModels
             {
                 _selectedShape = value;
                 ShapeControls = $"ShapeControls/{_selectedShape.ShapeName}";
+                MessengerInstance.Send(new SelectedShapeInformationMessage(_selectedShape));
                 RaisePropertyChanged();
             }
         }

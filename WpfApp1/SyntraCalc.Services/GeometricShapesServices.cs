@@ -1,4 +1,5 @@
 ﻿using SyntraCalc.Models;
+using System;
 using System.Collections.Generic;
 
 namespace SyntraCalc.Services
@@ -15,6 +16,37 @@ namespace SyntraCalc.Services
 
             return shapes;
         }
+
+        public double CalculateCircumference(GeometricShape shape)
+        {
+            double result = 0;
+            if (shape.ShapeName == "Circle")
+            {
+                result = Math.Round(2 * shape.Radius * Math.PI, 2);
+                return result;
+            }
+            else
+            {
+                return result;
+            }
+
+        }
+
+        public double CalculateSurface(GeometricShape shape)
+        {
+            double result = 0;
+            if (shape.ShapeName == "Circle")
+            {
+                result = Math.Round(Math.PI * Math.Pow(shape.Radius, 2), 2); 
+                return result;
+            }
+            else
+            {
+                return result;
+            }
+        }
+
+
 
     }
 }
