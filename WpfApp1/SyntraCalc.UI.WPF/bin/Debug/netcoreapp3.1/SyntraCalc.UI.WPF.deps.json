@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SyntraCalc.UI.WPF/1.0.0": {
+        "dependencies": {
+          "Autofac": "5.2.0",
+          "MvvmLightLibsStd10": "5.4.1.1",
+          "SyntraCalc.Models": "1.0.0",
+          "SyntraCalc.Services": "1.0.0"
+        },
+        "runtime": {
+          "SyntraCalc.UI.WPF.dll": {}
+        }
+      },
+      "Autofac/5.2.0": {
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
+      "MvvmLightLibsStd10/5.4.1.1": {
+        "runtime": {
+          "lib/netstandard1.0/GalaSoft.MvvmLight.dll": {
+            "assemblyVersion": "5.4.1.0",
+            "fileVersion": "5.4.1.0"
+          }
+        }
+      },
+      "SyntraCalc.Models/1.0.0": {
+        "runtime": {
+          "SyntraCalc.Models.dll": {}
+        }
+      },
+      "SyntraCalc.Repositories/1.0.0": {
+        "dependencies": {
+          "Autofac": "5.2.0",
+          "SyntraCalc.Models": "1.0.0"
+        },
+        "runtime": {
+          "SyntraCalc.Repositories.dll": {}
+        }
+      },
+      "SyntraCalc.Services/1.0.0": {
+        "dependencies": {
+          "Autofac": "5.2.0",
+          "SyntraCalc.Models": "1.0.0",
+          "SyntraCalc.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "SyntraCalc.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyntraCalc.UI.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V8dBH0dsv75uDzl7Sw+HkhKDPUw2eXnlMjcSVMH+tLo2s67MpTKGyDj1pDcpR+IF2u4YRs0s3/x7R88YJzIWvg==",
+      "path": "autofac/5.2.0",
+      "hashPath": "autofac.5.2.0.nupkg.sha512"
+    },
+    "MvvmLightLibsStd10/5.4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zU9KXgq8dfnzxxOvvAVtasbhaQGoDlTr8Pw2AjZ1NB905GQljrxqkgh3jo5/47Vux5duw3/faUgcZjdfomGvFw==",
+      "path": "mvvmlightlibsstd10/5.4.1.1",
+      "hashPath": "mvvmlightlibsstd10.5.4.1.1.nupkg.sha512"
+    },
+    "SyntraCalc.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SyntraCalc.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SyntraCalc.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

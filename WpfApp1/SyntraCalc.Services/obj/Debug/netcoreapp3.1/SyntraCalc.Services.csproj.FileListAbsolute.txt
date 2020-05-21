@@ -1,0 +1,13 @@
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\bin\Debug\netcoreapp3.1\SyntraCalc.Services.deps.json
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\bin\Debug\netcoreapp3.1\SyntraCalc.Services.dll
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\bin\Debug\netcoreapp3.1\SyntraCalc.Services.pdb
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\bin\Debug\netcoreapp3.1\SyntraCalc.Models.dll
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\bin\Debug\netcoreapp3.1\SyntraCalc.Repositories.dll
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\bin\Debug\netcoreapp3.1\SyntraCalc.Models.pdb
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\bin\Debug\netcoreapp3.1\SyntraCalc.Repositories.pdb
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\obj\Debug\netcoreapp3.1\SyntraCalc.Services.csprojAssemblyReference.cache
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\obj\Debug\netcoreapp3.1\SyntraCalc.Services.AssemblyInfoInputs.cache
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\obj\Debug\netcoreapp3.1\SyntraCalc.Services.AssemblyInfo.cs
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\obj\Debug\netcoreapp3.1\SyntraCalc.Services.csproj.CopyComplete
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\obj\Debug\netcoreapp3.1\SyntraCalc.Services.dll
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Services\obj\Debug\netcoreapp3.1\SyntraCalc.Services.pdb

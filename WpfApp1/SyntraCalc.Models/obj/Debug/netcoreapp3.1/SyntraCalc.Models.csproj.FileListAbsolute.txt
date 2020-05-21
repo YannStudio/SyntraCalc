@@ -1,0 +1,8 @@
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Models\bin\Debug\netcoreapp3.1\SyntraCalc.Models.deps.json
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Models\bin\Debug\netcoreapp3.1\SyntraCalc.Models.dll
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Models\bin\Debug\netcoreapp3.1\SyntraCalc.Models.pdb
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Models\obj\Debug\netcoreapp3.1\SyntraCalc.Models.csprojAssemblyReference.cache
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Models\obj\Debug\netcoreapp3.1\SyntraCalc.Models.AssemblyInfoInputs.cache
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Models\obj\Debug\netcoreapp3.1\SyntraCalc.Models.AssemblyInfo.cs
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Models\obj\Debug\netcoreapp3.1\SyntraCalc.Models.dll
+C:\Users\Yannick\source\repos\SyntraCalc\WpfApp1\SyntraCalc.Models\obj\Debug\netcoreapp3.1\SyntraCalc.Models.pdb
